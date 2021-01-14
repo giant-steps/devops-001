@@ -114,7 +114,7 @@ Each component must have its log made available somehow (you shall decide your
 favorite way to do that, just remember to explain your solution).
 
 ## Delivery instructions
-To deliver your solution, provide a Git repository and grant access to the user [rafalee](https://github.com/rafalee) and send an email with the repository’s link to the same email address that last contacted you..
+To deliver your solution, provide a **private** Github repository and grant access to the user [rafalee](https://github.com/rafalee) and send an email with the repository’s link to the same email address that last contacted you..
 Include a README file giving detailed execution instructions in a clear and
 concise fashion. If you consider it needed, justify shortly the main decisions
 you made in the process.
