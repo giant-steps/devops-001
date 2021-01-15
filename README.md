@@ -91,7 +91,7 @@ look like at the end of your solution:
 
 ![All items green](all-items-green.png)
 
-It's up to you wether you'll follow the sequence proposed in the checks page or
+It's up to you whether you'll follow the sequence proposed in the checks page or
 not - it's import, though, once the configuration of all components is done,
 all the items in the list are green.
 
@@ -114,7 +114,9 @@ Each component must have its log made available somehow (you shall decide your
 favorite way to do that, just remember to explain your solution).
 
 ## Delivery instructions
-To deliver your solution, provide a **private** Github repository and grant access to the user [rafalee](https://github.com/rafalee) and send an email with the repository’s link to the same email address that last contacted you..
+To deliver your solution, provide a **private** Github repository and grant
+access to the user [rafalee](https://github.com/rafalee) and send an email with
+the repository’s link to the same email address that last contacted you.
 Include a README file giving detailed execution instructions in a clear and
 concise fashion. If you consider it needed, justify shortly the main decisions
 you made in the process.
